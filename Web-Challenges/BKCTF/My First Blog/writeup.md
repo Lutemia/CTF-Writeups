@@ -56,9 +56,9 @@ bkctf{k3ys_in_th3_l0ck5}
 ```
 
 ## Real World Lessons Learned & Connecting to OWASP Top 10
-1. IDOR/Changing the URL to Find Hidden Pages - A01 2025: Broken Access Control
+1. IDOR/Changing the URL to Find Hidden Pages: A01 2025: Broken Access Control
    > Force browsing (guessing URLs) to authenticated pages as an unauthenticated user or to privileged pages as a standard user
-2. Exposed API Key/Comments Exposing File System - A02 2025: Security Misconfiguration
+2. Exposed API Key/Comments Exposing File System: A02 2025: Security Misconfiguration
    > Unnecessary features are enabled or installed (e.g., unnecessary ports, services, pages, accounts, testing frameworks, or privileges).
-3. Directory Traversal - A01 2025: Broken Access Control
+3. Directory Traversal: A01 2025: Broken Access Control
    > Bypassing access control checks by modifying the URL (parameter tampering or force browsing), internal application state, or the HTML page, or by using an attack tool that modifies API requests.
